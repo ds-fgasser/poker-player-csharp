@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3WQ7PRpOrn5HHuaMTDWsvfVe0EanJeN86RS97VE6LqM=",
+  "Source": "MyFirstApi",
+  "BasePath": "_content/MyFirstApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstApi\\wwwroot",
+      "Source": "MyFirstApi",
+      "ContentRoot": "C:\\Users\\fgasser\\Net\\MyFirstApi\\wwwroot\\",
+      "BasePath": "_content/MyFirstApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fgasser\\Net\\MyFirstApi\\wwwroot\\contacts.json",
+      "SourceId": "MyFirstApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fgasser\\Net\\MyFirstApi\\wwwroot\\",
+      "BasePath": "_content/MyFirstApi",
+      "RelativePath": "contacts.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contacts.json"
+    }
+  ]
+}
